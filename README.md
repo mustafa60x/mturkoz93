@@ -1,14 +1,14 @@
 # Hi, I'm Mustafa Türköz 👋
 
 #### ⚡ Skills and Experience
-* 🗣 JavaScript |TypeScript
+* 🗣 JavaScript | TypeScript | Python
 * 🌐 HTML | CSS | Vue Framework
-* 🖇️ NodeJS | NestJS
+* 🖇️ NodeJS | NestJS | Python
 * 🛢️ PostgreSQL | MongoDB | Redis | SQLite
-* 📋 Trello | Slack
+* 📋 Trello | Slack | Jira
 * 📟 Linux | Windows
-* :octocat: Git | Github | Gitlab
-* 🎨 GIMP
+* :octocat: Git | Github | Gitlab | Bitbucket 
+* 🎨 GIMP | Inkscape
 
 ## 📫 Get in touch
 - LinkedIn - [Mustafa Türköz](https://in.linkedin.com/in/mturkoz)
