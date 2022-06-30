@@ -12,7 +12,6 @@
 
 ## 📫 Get in touch
 - LinkedIn - [Mustafa Türköz](https://in.linkedin.com/in/mturkoz)
-- Twitter - [Mustafa Türköz](https://twitter.com/mturkoz_tr60)
 - Mail - [mturkoz93@gmail.com](mailto:mturkoz93@gmail.com)
 
 <!--
