@@ -10,9 +10,11 @@
 * :octocat: Git | Github | Gitlab | Bitbucket 
 * 🎨 GIMP | Inkscape
 
+<!--
 ## 📫 Get in touch
 - LinkedIn - [Mustafa Türköz](https://in.linkedin.com/in/mturkoz)
 - Mail - [mturkoz93@gmail.com](mailto:mturkoz93@gmail.com)
+-->
 
 <!--
 **mturkoz93/mturkoz93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
