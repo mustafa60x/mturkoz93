@@ -13,8 +13,6 @@
 
 ## Follow me
 - Medium - [Mustafa Türköz](https://medium.com/@mturkoz_tr60)
-- Telegram - [Blogger Türkiye](https://t.me/blogger_tr)
-- Telegram - [Vue.js & Nuxt.js Links](https://t.me/VueNuxtLinks)
 
 <!--
 **mturkoz93/mturkoz93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
